@@ -1,0 +1,9 @@
+c:\users\gaspc-010\documents\visual studio 2015\Projects\KyoukaiNoAngou\KyoukaiNoAngou\bin\Debug\KyoukaiNoAngou.exe.config
+c:\users\gaspc-010\documents\visual studio 2015\Projects\KyoukaiNoAngou\KyoukaiNoAngou\bin\Debug\KyoukaiNoAngou.exe
+c:\users\gaspc-010\documents\visual studio 2015\Projects\KyoukaiNoAngou\KyoukaiNoAngou\bin\Debug\KyoukaiNoAngou.pdb
+c:\users\gaspc-010\documents\visual studio 2015\Projects\KyoukaiNoAngou\KyoukaiNoAngou\obj\Debug\KyoukaiNoAngou.csprojResolveAssemblyReference.cache
+c:\users\gaspc-010\documents\visual studio 2015\Projects\KyoukaiNoAngou\KyoukaiNoAngou\obj\Debug\KyoukaiNoAngou.Form1.resources
+c:\users\gaspc-010\documents\visual studio 2015\Projects\KyoukaiNoAngou\KyoukaiNoAngou\obj\Debug\KyoukaiNoAngou.Properties.Resources.resources
+c:\users\gaspc-010\documents\visual studio 2015\Projects\KyoukaiNoAngou\KyoukaiNoAngou\obj\Debug\KyoukaiNoAngou.csproj.GenerateResource.Cache
+c:\users\gaspc-010\documents\visual studio 2015\Projects\KyoukaiNoAngou\KyoukaiNoAngou\obj\Debug\KyoukaiNoAngou.exe
+c:\users\gaspc-010\documents\visual studio 2015\Projects\KyoukaiNoAngou\KyoukaiNoAngou\obj\Debug\KyoukaiNoAngou.pdb

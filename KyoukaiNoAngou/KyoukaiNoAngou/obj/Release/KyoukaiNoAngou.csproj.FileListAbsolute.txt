@@ -1,0 +1,13 @@
+c:\users\gaspc-010\documents\visual studio 2015\Projects\KyoukaiNoAngou\KyoukaiNoAngou\bin\Release\KyoukaiNoAngou.exe.config
+c:\users\gaspc-010\documents\visual studio 2015\Projects\KyoukaiNoAngou\KyoukaiNoAngou\bin\Release\KyoukaiNoAngou.exe
+c:\users\gaspc-010\documents\visual studio 2015\Projects\KyoukaiNoAngou\KyoukaiNoAngou\bin\Release\KyoukaiNoAngou.pdb
+c:\users\gaspc-010\documents\visual studio 2015\Projects\KyoukaiNoAngou\KyoukaiNoAngou\obj\Release\KyoukaiNoAngou.Form1.resources
+c:\users\gaspc-010\documents\visual studio 2015\Projects\KyoukaiNoAngou\KyoukaiNoAngou\obj\Release\KyoukaiNoAngou.Properties.Resources.resources
+c:\users\gaspc-010\documents\visual studio 2015\Projects\KyoukaiNoAngou\KyoukaiNoAngou\obj\Release\KyoukaiNoAngou.csproj.GenerateResource.Cache
+c:\users\gaspc-010\documents\visual studio 2015\Projects\KyoukaiNoAngou\KyoukaiNoAngou\obj\Release\KyoukaiNoAngou.exe
+c:\users\gaspc-010\documents\visual studio 2015\Projects\KyoukaiNoAngou\KyoukaiNoAngou\obj\Release\KyoukaiNoAngou.pdb
+c:\users\gaspc-010\documents\visual studio 2015\Projects\KyoukaiNoAngou\KyoukaiNoAngou\bin\Release\KyoukaiNoAngou.exe.manifest
+c:\users\gaspc-010\documents\visual studio 2015\Projects\KyoukaiNoAngou\KyoukaiNoAngou\bin\Release\KyoukaiNoAngou.application
+c:\users\gaspc-010\documents\visual studio 2015\Projects\KyoukaiNoAngou\KyoukaiNoAngou\obj\Release\KyoukaiNoAngou.TrustInfo.xml
+c:\users\gaspc-010\documents\visual studio 2015\Projects\KyoukaiNoAngou\KyoukaiNoAngou\obj\Release\KyoukaiNoAngou.exe.manifest
+c:\users\gaspc-010\documents\visual studio 2015\Projects\KyoukaiNoAngou\KyoukaiNoAngou\obj\Release\KyoukaiNoAngou.application
